@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.MoinaTube" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color> <!-- light background -->
+    <color name="textColor">#000000</color> <!-- dark text for light bg -->
+    <color name="alert_red">#cf2b2b</color>
+
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <color name="background">#121212</color> <!-- dark background -->
+    <color name="textColor">#FFFFFF</color> <!-- light text for dark bg -->
+</resources>
