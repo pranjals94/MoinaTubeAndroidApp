@@ -59,7 +59,7 @@ import java.net.URLEncoder
 
 // for tv app ethernet
 //const val hostname: String ="http://192.168.18.62:8000/"  // lenovo laptop (developer)
-const val hostname: String ="http://192.168.1.10:8000/"  // ubuntu server ethernet
+//const val hostname: String ="http://192.168.1.10:8000/"  // ubuntu server ethernet
 //const val hostname: String ="http://192.168.117.217:8000/" // ubuntu server wifi
 
 
@@ -67,7 +67,7 @@ const val hostname: String ="http://192.168.1.10:8000/"  // ubuntu server ethern
 
 // for mobile app wifi
 //const val hostname: String ="http://192.168.117.62:8001/"  // lenovo laptop (developer)
-//const val hostname: String ="http://192.168.18.217:8001/" // ubuntu server wifi
+const val hostname: String ="http://192.168.18.217:8001/" // ubuntu server wifi
 
 // ========== DATA ==========
 
