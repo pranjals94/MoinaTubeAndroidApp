@@ -67,7 +67,8 @@ import java.net.URLEncoder
 
 // for mobile app wifi
 //const val hostname: String ="http://192.168.117.62:8001/"  // lenovo laptop (developer)
-const val hostname: String ="http://192.168.18.217:8001/" // ubuntu server wifi
+const val hostname: String ="http://192.168.13.217:8001/" // ubuntu server wifi
+// also update in networksecurity.xml and the  fast api backend
 
 // ========== DATA ==========
 
